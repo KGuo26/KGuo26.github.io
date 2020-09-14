@@ -216,7 +216,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -225,7 +224,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
   # _portfolio
   - scope:
       path: ""
@@ -234,7 +232,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
   # _talks
   - scope:
       path: ""
@@ -258,7 +255,7 @@ timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_tim
 
 
 # Plugins
-plugins:
+gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -308,3 +305,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+theme: jekyll-theme-minimal
