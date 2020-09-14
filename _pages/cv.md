@@ -9,51 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+---
+layout: single
+classes: wide
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+{% include base_path %}
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+{% comment %} 
+Vitae also available to download [here](../files/jcv.pdf).
+{% endcomment %} 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<object data="../files/jcv.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="../files/kaihang_cv.pdf">
+        <p>This browser does not support PDFs. Please <a href="../files/kaihang.cv.pdf">download the PDF</a> to view.</p>
+    </embed>
+</object>
+
+{% comment %}
+<iframe src="https://drive.google.com/file/d/1haaQPgAMkOqouNhVPiB8EHmol-okyQOy/preview" width="100%" height = "800"></iframe>
+{% endcomment %}

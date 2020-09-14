@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kaihang Guo"
   avatar           : "profile.png"
-  bio              : "PhD student at Rice University"
-  location         : 
+  bio              : "PhD candidate at Rice University"
+  location         : "3015 Duncan Hall<br>&emsp;&nbsp;&nbsp; 6100 Main St<br>&emsp;&nbsp;&nbsp; Houston, TX, 77005<br>&emsp;&nbsp;&nbsp; 281-702-8829"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=fgK0xnYAAAAJ&hl=en"
-  email            :
+  email            : "kaihang.guo@rice.edu"
   researchgate     : "https://www.researchgate.net/profile/Kaihang_Guo"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "kaihang-guo-a68a37a4"
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0003-3216-8177"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
