@@ -21,5 +21,5 @@ Vitae also available to download [here](../files/kaihang_cv.pdf).
 </object>
 
 {% comment %}
-<iframe src="https://drive.google.com/file/d/12OK0026ioyqK_z8NB1uOXzlXuYyGfFA1/preview" width="100%" height = "800"></iframe>
+<iframe src="https://drive.google.com/file/d/1vy2N4tZ2FWh9QIVmxPOhOx_r5vuRb-yI/preview" width="100%" height = "800"></iframe>
 {% endcomment %}
