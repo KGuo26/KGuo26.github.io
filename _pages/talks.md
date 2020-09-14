@@ -11,7 +11,7 @@ author_profile: true
 ## Recent talks
 
 Below are recent talks, with select accompanying slides.
-* Seminar, Chongqing University, Department of Mathematics, Chongqing, China, May, 2020.
+* Seminar, Chongqing University, Department of Mathematics, Chongqing, China, June, 2020.
 * Seminar, Nanjing University, Department of Mathematics, Nanjing, China, May, 2020. [Slides](../files/NJU.pdf)
 * SIAM Texas-Louisiana Sectional Meeting, Dallas, TX, USA, November 2019. [Slides](../files/LA-TX_smu.pdf)
 * Graduate Seminar, Rice University, Department of Computational and Applied Mathematics, Houston, TX, USA, September, 2019.
