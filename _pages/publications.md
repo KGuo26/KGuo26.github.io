@@ -10,5 +10,5 @@ A complete list of publications is available on my [Google Scholar page](https:/
 ## Papers in preparation
 
 
- ### Selected papers
+## Selected papers
 * K.Guo and J.Chan, [Bernstein-B\'ezier weight-adjusted discontinuous Galerkin methods for wave propagation in heterogeneous media] (https://www.sciencedirect.com/science/article/pii/S002199911930676X), Journal of Computational Physics. 2020
