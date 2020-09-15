@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My research focuses on high order discontinuous Galerkin (DG) method for time-dependent wave equations. In particular, I am interested in developing provably stable and high order accurate DG methods for wave propagation through arbitrarily heterogeneous media and moving domains. Besides, I design efficient and highly parallelizable algorithms to implement explicit time-stepping DG schemes on Graphics Processing Units (GPUs).
+I am a fifth year PhD student from the [Department of Computational and Applied Mathematics](https://caamweb.rice.edu) at Rice University under the advisement of [Professor Jesse Chan](https://jlchan.github.io). My research focuses on high order discontinuous Galerkin (DG) method for time-dependent wave equations. In particular, I am interested in developing provably stable and high order accurate DG methods for wave propagation through arbitrarily heterogeneous media and moving domains. I also design efficient and highly parallelizable algorithms to implement explicit time-stepping DG schemes on Graphics Processing Units (GPUs).
 
 ## Recent news:
 
