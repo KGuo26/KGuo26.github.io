@@ -13,11 +13,11 @@ author_profile: true
 Below are recent talks, with select accompanying slides.
 * Seminar, Chongqing University, Department of Mathematics, Chongqing, China, June, 2020.
 * Seminar, Nanjing University, Department of Mathematics, Nanjing, China, May, 2020. [Slides](../files/NJU.pdf)
-* SIAM Texas-Louisiana Sectional Meeting, Dallas, TX, USA, November 2019. [Slides](../files/LA-TX_smu.pdf)
+* SIAM Texas-Louisiana Sectional Meeting, Dallas, TX, USA, November, 2019. [Slides](../files/LA-TX_smu.pdf)
 * Graduate Seminar, Rice University, Department of Computational and Applied Mathematics, Houston, TX, USA, September, 2019.
 * The US National Congress on Computational Mechanics, Austin, TX, USA, July, 2019. [Slides](../files/USNCCM15.pdf)
-* North American High Order Methods Conference, San Diego, CA, USA, June 2019. [Slides](../files/NAHOMCON19.pdf)
-* Finite Element Rodeo, Austin, TX, USA, March 2019.
+* North American High Order Methods Conference, San Diego, CA, USA, June, 2019. [Slides](../files/NAHOMCON19.pdf)
+* Finite Element Rodeo, Austin, TX, USA, March, 2019.
 
 {% comment %} 
 {% endcomment %}
