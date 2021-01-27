@@ -7,6 +7,7 @@ author_profile: true
 ## Upcoming talks
 
 * SIAM CSE21
+* 2021 OG-HPC Conference
 
 ## Recent talks
 
