@@ -14,7 +14,6 @@ I am a fifth year PhD student from the [Department of Computational and Applied 
 * March 2021: Kaihang Guo gave a talk at the Rice Oil and Gas HPC conference.
 * March 2021: Kaihang Guo gave a talk at SIAM CSE 21.
 * September 2020: our preprint "High order WADG methods for wave propagation on moving curved meshes" is available as an [arXiv preprint](https://arxiv.org/abs/2009.12768), and introduces a stable high order DG methods for wave propagation on moving curved meshes with general choices of basis and quadrature. 
-* August 2018: Kaihang Guo successfully defended his MA thesis on low-complexity GPU-accelerated DG methods for wave propagation in media with sub-cell heterogeneities. This work is available online in an [arXiv preprint](https://arxiv.org/abs/1808.08645).
 * September 2020: Kaihang Guo has successfully passed his PhD proposal.
 * June 2020: our paper ["A weight-adjusted discontinuous Galerkin method for wave propagation in coupled elastic-acoustic media"](https://www.sciencedirect.com/science/article/pii/S002199912030406X) with Prof. Jesse Chan and Prof. Sebastian Acosta was accepted to JCP and is now online.
 * November 2019: Kaihang Guo presented work on wave propagation in acoustic-elastic media at the SIAM LA-TX sectional meeting in Dallas, TX.
